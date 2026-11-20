@@ -1,0 +1,15 @@
+# Build directories
+build/
+*.class
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
+
+# OS generated files
+Thumbs.db
+.DS_Store
